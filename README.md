@@ -1,4 +1,3 @@
-# Exercise3
+# Exercise3 and Excercise4
 
-
-Code review
+Above are the word documents contains the solution.
